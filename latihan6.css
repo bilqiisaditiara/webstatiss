@@ -3,7 +3,7 @@ body {
   font: 16px/28px arial, sans-serif;
   background-color: #bbdcec;
   color: #658015;
-  background-image: url(images/grass.jpg);
+  background-image: url(grass.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -44,7 +44,7 @@ body {
 
 .hero {
   height: 380px;
-  background-image: url(images/bogorr);
+  background-image: url(bogorr);
   background-size: cover;
   background-position: 0 -75px;
   outline-style: solid;
